@@ -8,7 +8,7 @@ def tagh(x,y):
     print (x/y)
 #def trye (x,y):
 while True:   
-    x =int(input ("enter firdt number: "))
+    x =int(input ("enter avalin adad: "))
     a =input ("enteryout mathematical oprator: ")
     y =int(input ("enter second number: "))
     if a == "+" :
